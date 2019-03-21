@@ -38,7 +38,7 @@
 
 # Etc
 *.vsproj
-*.vsxproj
+*.vcxproj
 *.filters
 *.manifest
 *.log
