@@ -36,4 +36,14 @@
 *.out
 *.app
 
+# Etc
+*.vsproj
+*.filters
+*.manifest
+*.log
+*.tlog
+*.lastbuildstate
+*.idb
+*.pdb
+
 # End of https://www.gitignore.io/api/c++
