@@ -1,12 +1,15 @@
 #include <iostream>
 #include <cstdio>
 #include <vector>
+#include <climits>
 
 #pragma warning (disable : 4996)
 
-#define INT_MAX 2147483647
-#define INT_MIN -2147483648
 #define LL long long
+#define sci(d) scanf("%d", &d)
+#define scs(s) scanf("%s", &s)
+#define printi(d) printf("%d", d)
+#define array(arr, n) arr = new int[n];
 
 using namespace std;
 
